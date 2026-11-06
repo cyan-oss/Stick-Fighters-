@@ -1,2 +1,2 @@
-# Stick-Fighters-
+# Stick-Fighters
 "Stick To Your Guns!"
